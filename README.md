@@ -1,7 +1,7 @@
 # Shapwd - bash password generator
 Secure hash password generator for bash
 
-Use: run shapwd (with -c argument for password confirm) and type 'pippo' in prompt (input will be not show) 
+Use: run shapwd (with -c argument for password confirm) and type 'pippo' in prompt (input won't shown) 
 
 <pre>
 $ chmod +x shapwd
